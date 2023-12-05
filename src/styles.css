@@ -53,11 +53,12 @@ main {
   margin: 0;
   font-size: 38px;
   line-height: 48px;
+  color: white;
 }
 
 .weather-app-details {
   font-size: 16px;
-  color: rgba(39, 33, 66, 0.4);
+  color: black;
   line-height: 24px;
   font-weight: 500;
 }
@@ -94,7 +95,7 @@ main {
 
 .weather-forecast-date {
   text-align: center;
-  color: rgba(39, 33, 66, 0.4);
+  color: black;
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 10px;
@@ -123,5 +124,5 @@ footer {
   padding: 30px 0 0 0;
   text-align: center;
   font-size: 14px;
-  color: rgba(0, 0, 0, 0.6);
+  color: white;
 }
